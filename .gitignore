@@ -1,0 +1,26 @@
+# Python
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode
+.idea
+*.wpr
+*.wpu
+.vs
+x64
+.tags_sorted_by_file
+.tags
+tags
+.DS_Store
+
+# Temp
+build
+dist
+*.local
+py3venv
+
+# vn.py
+.vntrader
